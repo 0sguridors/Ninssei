@@ -1,0 +1,17 @@
+Participantes:
+Rafael Schuck Segatto
+Rafael Brennsen
+Mariana G. Cavilha
+João Pedro dos Santos
+Léonardo Ferrari (Banco de Dados)
+
+Link video explicação do projeto:
+
+https://youtu.be/FaYhjR1v_lY
+
+
+
+Para ter acesso as CRUDS, é necessario entrar na conta de administrador.
+Sendo ela:
+admin@admin
+admin

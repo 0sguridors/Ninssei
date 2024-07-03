@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.encoding": "utf8",
+		"php.validate.executablePath": "C:\\Xampp\\php\\php.exe",
+		"php.executablePath":"C:\\Xampp\\php\\php.exe",
+	},
+
+}
